@@ -1,0 +1,59 @@
+.common-footer_cart{
+    position:fixed;
+    bottom: 0;
+    height: 1.333333rem;
+    width: 100%;
+    z-index: 9;
+    background-color: #fff;
+    font-size: .373333rem;
+    border-top: .026667rem solid #e2e2e2;
+    display: flex;
+    justify-content: space-between;
+    .icon{
+        width: 1.253333rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        position: relative;
+        text-align: center;
+        .iconfont{
+            font-size: .8rem;
+        }
+        .num-hint{
+            position: absolute;
+            text-align: center;
+            width: .373333rem;
+            height: .373333rem;
+            top: .22rem;
+            right: .22rem;
+            color: #ffffff;
+            font-size: .32rem;
+            line-height: .373333rem;
+            background-color: #ff4400;
+            border-radius: 50%;
+        }
+    }
+    .message{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-grow: 1;
+        .num{
+            color: #ff4400;
+            font-weight: bold;
+        }
+    }
+    .gopay{
+        background-color: #ff4400;
+        color: #ffffff;
+        float: right;
+        width: 3.6rem;
+        height: 100%;
+        overflow: hidden;
+        position: relative;
+        text-align: center;  
+        line-height: 1.333333rem;
+        font-size: .533333rem;   
+    }
+    
+}

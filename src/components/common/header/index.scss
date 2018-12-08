@@ -1,0 +1,26 @@
+.header{
+    width: 100%;
+    height: 1.466667rem;
+    background: #2cbd16;
+    display: flex;
+    .back{
+        width: 1.466667rem;
+        text-align: center;
+        overflow: hidden;
+        z-index: 4;
+        i{
+            line-height: 1.533333rem;
+            font-size: .666667rem;
+            color: #fff;
+        }
+    }
+    .search{
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-left: -0.72rem;
+       
+    }
+}

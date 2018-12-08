@@ -1,0 +1,65 @@
+[{
+        "FCODE": "001",
+        "FID": "d7f4c424-5ae1-c8a4-2778-fcc3f8a53a6f",
+        "FNAME": "时令水果"
+    },
+    {
+        "FCODE": "003",
+        "FID": "19b5a02f-b544-a749-093c-8dce450ea707",
+        "FNAME": "酒水饮料"
+    },
+    {
+        "FCODE": "002",
+        "FID": "0006e8bf-3c13-4232-2e03-a980e1a814d1",
+        "FNAME": "全国特产"
+    },
+    {
+        "FCODE": "004",
+        "FID": "6d372495-9412-95cc-4e64-302e5d5565c7",
+        "FNAME": "海鲜类"
+    },
+    {
+        "FCODE": "005",
+        "FID": "c331875d-cda9-b9db-f6ae-c5e5ea43313b",
+        "FNAME": "牛羊肉"
+    },
+    {
+        "FCODE": "007",
+        "FID": "19be4681-9883-6daf-2527-beef6eead913",
+        "FNAME": "蔬菜类"
+    },
+    {
+        "FCODE": "008",
+        "FID": "19be4681-9883-6daf-2527-beef6eead913",
+        "FNAME": "aaa"
+    },
+    {
+        "FCODE": "009",
+        "FID": "19be4681-9883-6daf-2527-beef6eead913",
+        "FNAME": "vvv"
+    },{
+        "FCODE": "009",
+        "FID": "19be4681-9883-6daf-2527-beef6eead913",
+        "FNAME": "vvv"
+    },{
+        "FCODE": "009",
+        "FID": "19be4681-9883-6daf-2527-beef6eead913",
+        "FNAME": "vvv"
+    },{
+        "FCODE": "009",
+        "FID": "19be4681-9883-6daf-2527-beef6eead913",
+        "FNAME": "vvv"
+    },{
+        "FCODE": "009",
+        "FID": "19be4681-9883-6daf-2527-beef6eead913",
+        "FNAME": "vvv"
+    },{
+        "FCODE": "009",
+        "FID": "19be4681-9883-6daf-2527-beef6eead913",
+        "FNAME": "vvv"
+    },{
+        "FCODE": "009",
+        "FID": "19be4681-9883-6daf-2527-beef6eead913",
+        "FNAME": "vvv"
+    }
+]

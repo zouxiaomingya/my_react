@@ -1,0 +1,25 @@
+.nav{
+    .warp{
+        position: relative;
+        width: 100%;
+        background-color: #fff;
+        padding: .453333rem .24rem .213333rem;
+        display: flex;
+        justify-content: space-around;
+        .item{
+            display: flex;
+            flex-direction: column;
+            align-items:center;
+            p{
+                line-height: .693333rem;
+                color: #777;
+                font-size: .373333rem;
+            }
+            img{
+                width: 1.333333rem;
+                height: 1.333333rem;
+            }
+        }
+        
+    }
+}

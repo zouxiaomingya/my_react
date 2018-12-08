@@ -1,0 +1,13 @@
+.banner{
+    height: 100%;
+    img{
+        width: 100%; 
+    }
+    .swiper-pagination-bullet{
+        width: .213333rem;
+        height: .213333rem;
+    }
+    .swiper-pagination-bullet-active{
+        background:#ffa800;
+    }
+}

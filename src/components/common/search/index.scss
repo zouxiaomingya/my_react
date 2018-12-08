@@ -1,0 +1,25 @@
+.search{
+    z-index: 3;
+    .search-container{
+        width: 7.066667rem;
+        height: .986667rem;
+        background-color: rgba(255,255,255,0.8);
+        border-radius: .8rem;
+        text-align: center;
+        line-height: .986667rem;
+        i {
+            font-size: .426667rem;
+            vertical-align: top;
+        }
+        span{
+            vertical-align: top;
+            font-size: .373333rem;
+            color: #505050;
+            margin-left: .25rem;
+        }
+    }  
+}
+
+.test{
+    position: relative;
+}
