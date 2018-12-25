@@ -2,7 +2,7 @@
 >创建的项目中安装了react-app-rewired 后，可以通过创建一个config-overrides.js 文件来对 webpack 配置进行扩展。
     配置好文件之后需要改package.json 的入口文件 react-scripts 改为 react-app-rewired
 
->安装 sass-loader node-sass  scss样式预编译的工具 
+>安装 sass-loader node-sass  scss样式预编译的工具 .
 
 >styled-components
 
